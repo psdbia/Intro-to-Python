@@ -1777,3 +1777,10 @@ This course built a foundation. Where it leads depends on your goals:
 | **Visualisation** | Advanced Seaborn, Plotly for interactive charts, dashboards |
 
 The EDA workflow from this course is the starting point for all of them.
+
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+© 2026 Patrick Dolinger
