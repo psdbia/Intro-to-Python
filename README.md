@@ -1,7 +1,7 @@
 # Introduction to Python for Business Statistics
 ### A 6-Week Intensive Course
 
-> This textbook accompanies a 6-week intensive course designed for graduate certificate students in Business Intelligence and Data Science. Python concepts are introduced through business statistics — students build both skills simultaneously, each reinforcing the other.
+> This textbook accompanies a 6-week intensive course designed for graduate certificate students in Business Intelligence and Data Analytics. Python concepts are introduced through business statistics — students build both skills simultaneously, each reinforcing the other.
 
 **© 2026 Patrick Dolinger** — Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
