@@ -1,8 +1,8 @@
-\# Introduction to Python for Business Statistics
+# Introduction to Python for Business Statistics
 
 
 
-\## Preface
+## Preface
 
 
 
@@ -46,7 +46,7 @@ Above all, this text is meant to help you become a more confident and more criti
 
 
 
-\## AI Assistance Disclosure
+## AI Assistance Disclosure
 
 
 
