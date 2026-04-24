@@ -1,62 +1,41 @@
 # Introduction to Python for Business Statistics
+### A 6-Week Intensive Course
 
+> This textbook accompanies a 6-week intensive course designed for graduate certificate students in Business Intelligence and Data Science. Python concepts are introduced through business statistics — students build both skills simultaneously, each reinforcing the other.
 
+**© 2026 Patrick Dolinger** — Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-## Preface
+You are free to share and adapt this material for any purpose, provided appropriate credit is given to the author and a link to the license is included. See the [License](#license) section at the end of this document for full terms.
 
+---
 
+## Course Overview
 
-Modern organizations generate enormous volumes of data, but data alone does not create insight. Insight comes from the ability to ask good questions, apply appropriate analytical tools, and interpret results in a way that informs decision‑making. This handbook is written for learners who want to develop that ability by combining practical Python programming with core ideas from business statistics.
+| Week | Python | Statistics |
+|:-----|:-------|:-----------|
+| 1 | Variables, types, arithmetic | Data types, measurement scales |
+| 2 | Lists, NumPy arrays | Central tendency, samples vs populations |
+| 3 | Conditionals, loops, comprehensions | Frequency distributions, outlier detection |
+| 4 | Functions, error handling, Pandas | Variance, std deviation, z-scores, IQR |
+| 5 | Data cleaning, Matplotlib, Seaborn | Distributions, correlation, visualisation |
+| 6 | groupby, pivot tables, EDA workflow | Grouped analysis, coefficient of variation |
 
+---
 
+## Table of Contents
 
-This book assumes no prior experience with Python and no advanced background in statistics. Instead, it builds both skill sets together, step by step. You will learn Python concepts only when they become useful for a real analytical task, and statistical concepts only when they can be applied directly to business data. Variables are introduced in the context of measurement scales, lists are motivated by collections of transactions, and statistical measures are tied to the questions analysts are routinely asked to answer.
+- [Chapter 1 — Data, Variables, and Types](#chapter-1--data-variables-and-types)
+- [Chapter 2 — Lists, Arrays, and Central Tendency](#chapter-2--lists-arrays-and-central-tendency)
+- [Chapter 3 — Conditionals, Loops, and Frequency Distributions](#chapter-3--conditionals-loops-and-frequency-distributions)
+- [Chapter 4 — Functions, Error Handling, and an Introduction to Pandas](#chapter-4--functions-error-handling-and-an-introduction-to-pandas)
+- [Chapter 5 — Data Cleaning and Visualisation](#chapter-5--data-cleaning-and-visualisation)
+- [Chapter 6 — Grouped Analysis, Pivot Tables, and the EDA Workflow](#chapter-6--grouped-analysis-pivot-tables-and-the-eda-workflow)
+- [License](#license)
 
-
-
-The emphasis throughout is on \*thinking with data\*, not memorizing syntax. Code examples are intentionally clear and explicit, favoring readability over cleverness. Statistical techniques are explained in plain language, with attention to when they are appropriate, when they are misleading, and how they support professional judgment rather than replace it.
-
-
-
-By the end of the book, you will be able to:
-
-\- Read and write basic Python code for data analysis
-
-\- Work with real datasets using NumPy and Pandas
-
-\- Choose appropriate summary statistics for different types of data
-
-\- Identify patterns, outliers, and data quality issues
-
-\- Perform exploratory data analysis (EDA) using tables and visualizations
-
-\- Translate numerical results into clear, business‑relevant explanations
-
-
-
-This handbook is designed for use in a one‑semester or six‑week applied course, but it is equally suitable for self‑study or professional upskilling. The chapters are sequential and build on one another, though individual topics can be revisited as references.
-
-
-
-Above all, this text is meant to help you become a more confident and more critical analyst — someone who understands not just \*how\* to compute a result, but \*what it means\* and \*whether it should be trusted\*.
-
-
-
-\---
-
-
-
-## AI Assistance Disclosure
-
-
-
-This handbook was developed by the author, with assistance from AI‑based tools to support drafting, editing, and clarity of presentation. All content structure, examples, explanations, and instructional decisions were directed and reviewed by the author, who retains full responsibility for the accuracy, pedagogy, and intent of the material.
-
-
+---
 
 # Chapter 1 — Data, Variables, and Types
 
-**Introduction to Python for Business Statistics**
 
 ---
 
@@ -311,10 +290,12 @@ print(f"Revenue: ${revenue:.2f}")    # Revenue: $8420.50
 
 ---
 
-*Next: Chapter 2 — Lists, Arrays, and Working with Collections of Data*
+
+
+---
+
 # Chapter 2 — Lists, Arrays, and Central Tendency
 
-**Introduction to Python for Business Statistics**
 
 ---
 
@@ -562,10 +543,12 @@ This is why news reports on income and housing prices typically use **median** r
 
 ---
 
-*Next: Chapter 3 — Conditionals, Loops, and Frequency Distributions*
+
+
+---
+
 # Chapter 3 — Conditionals, Loops, and Frequency Distributions
 
-**Introduction to Python for Business Statistics**
 
 ---
 
@@ -868,10 +851,12 @@ This four-step pattern — classify, count, proportion, flag — is the foundati
 
 ---
 
-*Next: Chapter 4 — Functions, Error Handling, and an Introduction to Pandas*
+
+
+---
+
 # Chapter 4 — Functions, Error Handling, and an Introduction to Pandas
 
-**Introduction to Python for Business Statistics**
 
 ---
 
@@ -1192,10 +1177,12 @@ In business data — where a single bulk order or executive salary can skew a da
 
 ---
 
-*Next: Chapter 5 — Data Cleaning and Visualisation with Pandas, Matplotlib, and Seaborn*
+
+
+---
+
 # Chapter 5 — Data Cleaning and Visualisation
 
-**Introduction to Python for Business Statistics**
 
 ---
 
@@ -1517,10 +1504,12 @@ plt.show()
 
 ---
 
-*Next: Chapter 6 — Grouped Analysis, Pivot Tables, and the Micro-Project*
+
+
+---
+
 # Chapter 6 — Grouped Analysis, Pivot Tables, and the EDA Workflow
 
-**Introduction to Python for Business Statistics**
 
 ---
 
@@ -1778,9 +1767,21 @@ This course built a foundation. Where it leads depends on your goals:
 
 The EDA workflow from this course is the starting point for all of them.
 
+---
 
 ## License
 
-This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
 © 2026 Patrick Dolinger
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to the author, provide a link to the license, and indicate if changes were made.
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
