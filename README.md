@@ -1368,7 +1368,7 @@ A **boxplot** (box-and-whisker plot) visualises the five-number summary and high
 Boxplots are especially useful for **comparing groups** — plotting one box per category side by side immediately shows differences in centre, spread, and outliers.
 
 ```python
-sns.boxplot(data=df, x="region", y="revenue", palette="Set2")
+sns.boxplot(data=df, x="region", y="revenue", palette="Set2", hue="region", legend=False)
 plt.title("Revenue by Region")
 plt.show()
 ```
