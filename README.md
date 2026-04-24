@@ -125,5 +125,5 @@ If you are using this material in a course or training context and have feedback
 ---
 
 _Introduction to Python for Business Statistics_  
-© Author
+© Patrick Dolinger
 ``
