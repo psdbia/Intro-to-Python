@@ -1352,9 +1352,9 @@ The KDE (kernel density estimate) is a smoothed curve that makes the shape easie
 A **boxplot** (box-and-whisker plot) visualises the five-number summary and highlights outliers.
 
 ```
+     ●        ← outlier (beyond whisker)
+
      ──── upper whisker (Q3 + 1.5 × IQR)
-  |      |
-  |  ●   | ← outlier (beyond whisker)
   |      |
   ┌──────┐ ← Q3 (75th percentile)
   │      │
